@@ -870,6 +870,7 @@ S17-promise/allof.t      # slow
 S17-promise/at.t
 S17-promise/anyof.t
 S17-promise/basic.t
+S17-promise/illegal-transition.t
 S17-promise/in.t         # slow
 S17-promise/lock-async.t
 S17-promise/lock-async-stress.t # moar stress slow
@@ -1175,6 +1176,7 @@ S32-str/ends-with.t
 S32-str/fc.t            # moar
 S32-str/flip.t
 S32-str/gb2312-encode-decode.t
+S32-str/gb18030-encode-decode.t
 S32-str/indent.t
 S32-str/index.t
 S32-str/indices.t
